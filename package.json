@@ -20,15 +20,17 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
     "autoprefixer": "^10.4.0",
+    "emailjs": "^4.0.3",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "12.0.4",
     "next": "latest",
     "postcss": "^8.3.11",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "sharp": "^0.29.3",
-    "tailwindcss": "^2.2.19",
-    "eslint": "^7.32.0",
-    "eslint-config-next": "12.0.4"
+    "tailwindcss": "^2.2.19"
   },
   "devDependencies": {
     "@types/node": "^16.11.7",

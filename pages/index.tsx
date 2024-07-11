@@ -29,7 +29,7 @@ const IndexPage = () => {
   return (
     <>
       <Layout title="Alihsan Foundation USA">
-        <img src="/images/Logo.png" alt="Themeptation" className="h-40" />
+        <img src="/images/usa-logo.png" alt="Themeptation" className="h-40" />
         <div className="relative z-10 py-6 space-y-16 lg:space-y-32 text-gray-900">
           <div className="text-center space-y-10">
             <h3 className="font-light text-xl uppercase tracking-wider">
